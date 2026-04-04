@@ -115,7 +115,7 @@ Finding sponsorships works well if you have a strong audience or reputation alre
 A few examples of sponsored projects include:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### Create a revenue stream
 

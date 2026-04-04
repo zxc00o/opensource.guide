@@ -116,7 +116,7 @@ Könnyű szponzorokat találni, ha már erős közönséged vagy jó hírneved v
 Néhány példa:
 
 * **[webpack](https://github.com/webpack)** magánszemélyektől és cégektől is támogatáshoz jut [az OpenCollective-en keresztül](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
 
 ### Hozz létre bevételi forrást
 

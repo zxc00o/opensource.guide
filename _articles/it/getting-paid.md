@@ -115,7 +115,7 @@ Trovare una sponsorizzazione funziona bene se hai già un pubblico o una reputaz
 Alcuni esempi di progetti sponsorizzati includono:
 
 * **[webpack](https://github.com/webpack)** raccoglie denaro da aziende e privati ​​[via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** organizzazione no-profit che paga il lavoro di [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) e altri progetti infrastrutturali di Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organizzazione no-profit che paga il lavoro di [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) e altri progetti infrastrutturali di Ruby
 
 ### Crea un flusso di reddito
 

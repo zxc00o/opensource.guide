@@ -114,7 +114,7 @@ Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala dene
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
 * **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
 

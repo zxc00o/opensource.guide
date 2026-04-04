@@ -114,7 +114,7 @@ related:
 Вот несколько примеров спонсируемых проектов:
 
 * **[webpack](https://github.com/webpack)** привлекает деньги от компаний и частных лиц [through OpenCollective](https://opencollective.com/webpack)
-* **[вместе с Ruby](https://web.archive.org/web/2024/https://rubytogether.org/),** - некоммерческая организация, которая платит за работу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), и над другими проектами инфраструктуры Ruby
+* **[вместе с Ruby](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** - некоммерческая организация, которая платит за работу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), и над другими проектами инфраструктуры Ruby
 
 ### Создайте поток доходов
 

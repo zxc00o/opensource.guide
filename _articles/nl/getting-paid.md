@@ -130,7 +130,7 @@ Het vinden van sponsoring werkt goed als je al een sterk publiek of een sterke r
 Enkele voorbeelden van gesponsorde projecten zijn:
 
 * **[webpack](https://github.com/webpack)** zamelt geld in bij bedrijven en particulieren [via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
 
 ### Creëer een inkomstenstroom
 

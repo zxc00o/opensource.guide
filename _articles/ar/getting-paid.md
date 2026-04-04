@@ -117,7 +117,7 @@ related:
 ومن أمثلة المشاريع التي تم تمويلها ما يلي:
 
 * **[webpack](https://github.com/webpack)** يجمع الأموال من الشركات والأفراد [من خلال OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** منظمة غير ربحية تدفع مقابل العمل على [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), وغيرها من مشاريع البنية التحتية ل Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** منظمة غير ربحية تدفع مقابل العمل على [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), وغيرها من مشاريع البنية التحتية ل Ruby
 
 ### إنشاء مصدر للإيرادات
 

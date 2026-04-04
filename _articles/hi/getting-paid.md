@@ -116,7 +116,7 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 प्रायोजित परियोजनाओं के कुछ उदाहरणों में शामिल हैं:
 
 * **[webpack](https://github.com/webpack)** कंपनियों और व्यक्तियों से धन जुटाता है [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** एक गैर-लाभकारी संगठन जो काम के लिए भुगतान करता है [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** एक गैर-लाभकारी संगठन जो काम के लिए भुगतान करता है [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### एक राजस्व धारा बनाएँ
 

@@ -125,7 +125,7 @@ Znalezienie sponsorów działa dobrze, jeśli masz już odpowiednią publicznoś
 Kilka przykładów sponsorowanych projektów to:
 
 * **[webpack](https://github.com/webpack)** zbiera pieniądze od firm i osób prywatnych [poprzez OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
 
 ### Utwórz strumień przychodów
 

@@ -115,7 +115,7 @@ Kukusanya udhamini kunafanya kazi vizuri ikiwa una hadhira au sifa nzuri tayari,
 Mifano ya miradi iliyo na udhamini ni pamoja na:
 
 * **[webpack](https://github.com/webpack)** inakusanya fedha kutoka kwa makampuni na watu binafsi [kupitia OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** shirika lisilo la faida linalolipa kazi kwenye [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), na miradi mingine ya miundombinu ya Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** shirika lisilo la faida linalolipa kazi kwenye [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), na miradi mingine ya miundombinu ya Ruby
 
 ### Kuunda mtiririko wa mapato
 

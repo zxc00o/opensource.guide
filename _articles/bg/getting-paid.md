@@ -115,7 +115,7 @@ related:
 Няколко примера за спонсорирани проекти включват:
 
 * **[webpack](https://github.com/webpack)** събира пари от компании и физически лица [чрез OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
 
 ### Създайте поток от приходи
 

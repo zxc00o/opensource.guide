@@ -115,7 +115,7 @@ related:
 Μερικά παραδείγματα έργων με χορηγίες περιλαμβάνουν:
 
 * **[webpack](https://github.com/webpack)** συγκεντρώνει χρήματα από εταιρείες και ιδιώτες [μέσω του OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://web.archive.org/web/2024/https://rubytogether.org/),** ένας μη κερδοσκοπικός οργανισμός που πληρώνει για εργασίες στα [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), και άλλα έργα υποδομής Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** ένας μη κερδοσκοπικός οργανισμός που πληρώνει για εργασίες στα [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), και άλλα έργα υποδομής Ruby
 
 ### Δημιουργία μιας ροής εσόδων
 
