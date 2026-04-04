@@ -120,7 +120,7 @@ redirect_from: /zh-cn/building-community/
   事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "如何运营一个 FOSS 项目"
   </p>
 </aside>
 

@@ -117,7 +117,7 @@ Fai del tuo meglio per adottare una politica di tolleranza zero nei confronti di
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verità è che avere una comunità solidale è fondamentale. Non avrei mai potuto svolgere questo lavoro senza l'aiuto dei miei colleghi, di amichevoli sconosciuti su Internet e di canali IRC chiacchieroni. (...) Non accontentarti di meno. Non accontentarti degli sciocchi.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Come gestire un progetto FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Come gestire un progetto FOSS"
   </p>
 </aside>
 

@@ -116,7 +116,7 @@ Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-o
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

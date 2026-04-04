@@ -117,7 +117,7 @@ Lakukan yang terbaik untuk mengamalkan dasar toleransi sifar terhadap jenis oran
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Yang benar adalah bahawa mempunyai komuniti yang menyokong adalah kunci. Saya tidak akan dapat melakukan kerja ini tanpa bantuan rakan sekerja, orang asing yang ramah, dan saluran IRC yang cerewet. (...) Jangan berpuas hati. Jangan berpuas hati dengan orang yang teruk.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

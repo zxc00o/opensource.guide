@@ -117,7 +117,7 @@ Fanya bidii yako kupitisha sera ya kutovumilia watu hawa. Ikiwa utaacha bila kud
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Ukweli ni kwamba kuwa na jamii inayoungana mkono ni muhimu. Singeweza kufanya kazi hii bila msaada wa wenzangu, wageni wa kirafiki mtandaoni, na chaneli za IRC zenye mazungumzo. (...) Usikubali chini ya kiwango. Usikubali wahusika wabaya.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Jinsi ya Kuendesha Mradi wa FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Jinsi ya Kuendesha Mradi wa FOSS"
   </p>
 </aside>
 

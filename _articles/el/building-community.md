@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Η αλήθεια είναι ότι η ύπαρξη μιας υποστηρικτικής κοινότητας είναι το κλειδί. Δεν θα μπορούσα ποτέ να κάνω αυτή τη δουλειά χωρίς τη βοήθεια των συναδέλφων μου, των φιλικών αγνώστων στο διαδίκτυο και των φλύαρων καναλιών IRC. (...) Μην συμβιβάζεστε με λιγότερα. Μην συμβιβάζεστε με μαλάκες.
   <p markdown="1" class="pquote-credit">
-- @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+- @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

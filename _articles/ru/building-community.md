@@ -117,7 +117,7 @@ related:
   <img src = "https://avatars.githubusercontent.com/okdistribute?s=180" class = "pquote-avatar" alt = "avatar">
   Правда в том, что наличие поддерживающего сообщества является ключевым моментом. Я бы никогда не справилась с этой работой без помощи моих коллег, дружелюбных незнакомцев в Интернете и болтливых каналов IRC. (...) Не соглашайтесь на меньшее. Не соглашайтесь на придурков.
   <p markdown = "1" class = "pquote-credit">
-— @okdistribute, [«Как запустить проект с открытым исходным кодом»](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, «Как запустить проект с открытым исходным кодом»
   </p>
 </aside>
 

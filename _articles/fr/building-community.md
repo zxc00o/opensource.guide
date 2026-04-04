@@ -116,7 +116,7 @@ Faites de votre mieux pour adopter une politique de tolérance zéro envers ces 
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La vérité est qu'avoir une communauté de soutien est la clé. Je ne serais jamais capable de faire ce travail sans l'aide de mes collègues, des étrangers sympathiques sur Internet, et des canaux IRC bavards. (...) Ne vous contentez pas de moins. Ne vous contentez pas de connards.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

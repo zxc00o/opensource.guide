@@ -117,7 +117,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/okdistribute?s=180">
   Gerçek şu ki, destekleyici bir topluluğa sahip olmak çok önemlidir. Meslektaşlarımın, arkadaş canlısı yabancıların ve konuşkan IRC kanallarının yardımı olmadan bu işi asla yapamazdım. (...) Daha azına razı olma. Pisliklere razı olma.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

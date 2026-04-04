@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   सच तो यह है कि एक सहायक समुदाय का होना महत्वपूर्ण है। मैं अपने सहकर्मियों, मित्रवत इंटरनेट अजनबियों और बातूनी आईआरसी चैनलों की मदद के बिना यह काम कभी नहीं कर पाऊंगा। (...) इससे कम पर समझौता न करें। बेवकूफों के लिए समझौता मत करो.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["FOSS प्रोजेक्ट कैसे चलाएं"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "FOSS प्रोजेक्ट कैसे चलाएं"
   </p>
 </aside>
 

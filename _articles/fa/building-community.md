@@ -118,7 +118,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   حقیقت این است که داشتن یک جامعه حامی بسیار حیاتی است. من هرگز قادر به انجام چنین کاری بدون کمک همکارانم، غریبه هایی که در اینترنت و کانال های <span dir="rtl">IRC</span> چت با آنها دوست شدم نبودم(...). البته نباید به دون مایه ها و عوضی ها اکتفا نمود.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
