@@ -19,7 +19,7 @@ Here are a few ways to center lived experience:
 - Invite contributors with disabilities into design discussions, not just bug triage.
 - Involve people with disabilities for usability testing and feedback when you can.
 - Listen when someone describes how they use your project, even when it challenges your assumptions.
-- Treat accessibility reports as expertise, not complaints.
+- Treat accessibility reports as expertise, not complaints - they may represent more people than you think.
 
 Decisions made without the people affected by them tend to miss the mark. Building with people with disabilities, rather than for them, leads to better software for everyone.
 
@@ -27,8 +27,9 @@ Decisions made without the people affected by them tend to miss the mark. Buildi
 - **It impacts a lot of people.** An estimated 1.3 billion people (1 in 6) experience significant disability, according to the [World Health Organization](https://www.who.int/news-room/fact-sheets/detail/disability-and-health).
 - **It’s part of quality.** Accessible products tend to be more usable for everyone.
 - **It reduces support load.** Clearer UI and docs mean fewer confused users.
-- **It expands your contributor base.** Assistive tech users can participate fully.
+- **It expands your contributor base.** Assistive tech users can more fully participate.
 - **It’s often required.** Many orgs (and some governments) require accessibility for procurement and compliance.
+- **Our future is uncertain.** Nobody today can be confident about the abilities we will have tomorrow.
 
 
 ## Start with an accessibility statement
@@ -52,7 +53,7 @@ Add a short accessibility statement to your project. You can either add an acces
 - List platforms you support (web, mobile web, iOS, Android, terminal/CLI, desktop apps) and any partial-support notes.
 
 #### **Reporting accessibility bugs**
-- Ask reporters to open issues using the accessibility issue template 
+- Ask reporters to open issues using the accessibility issue template.
 - **Tip:** Set expectations honestly (like “We’re working on this — tracking in ISSUE-123”); acknowledge reports and provide follow-up or workaround when possible.
 
 ## Make docs accessible by default
@@ -84,7 +85,7 @@ Documentation is often the first "UI" users touch, make sure everyone can read i
 ### Code blocks
 - Keep lines reasonably short (wrapping helps readability).
 - Don’t rely on color highlighting alone to indicate meaning.
-- Explain what the code does and what success looks like.
+- Explain inline what the code does and what success looks like.
 
 ## Design accessible UIs
 
@@ -236,6 +237,8 @@ Consider adding these to your repo:
 - `.github/pull_request_template.md`: include an a11y checklist
 - `docs/accessibility/`: any project-specific guidance (component rules, patterns, known issues)
 
+Refer to this [ACCESSIBILITY.md example](https://github.com/mgifford/ACCESSIBILITY.md/tree/main).
+
 ## Conclusion: A few steps for you, a huge improvement for your users
 
 These steps might seem basic, but they go a long way to make your project more accessible. Every fix you make, whether it's a missing label, a keyboard trap, or a caption on a video, opens the door for someone who couldn't use your project before. Accessibility isn't a one-time fix, it's an ongoing practice, and you don't have to do it all at once. Start with keyboard navigation and semantics, keep changes small, and ask for review early. The work you put in today means more people can learn from, contribute to, and rely on what you build. That's a win worth celebrating.
@@ -244,5 +247,4 @@ These steps might seem basic, but they go a long way to make your project more a
 
 ### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
 
-This guide was written by [@mlama007](https://github.com/mlama007) with contributions from: 
-TBD
+This guide was written by [@mlama007](https://github.com/mlama007) with contributions from: [@ericwbailey](https://github.com/ericwbailey), [@andyfeller](https://github.com/andyfeller), [@mgifford](https://github.com/mgifford), TBD
