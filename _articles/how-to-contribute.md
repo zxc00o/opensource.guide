@@ -226,7 +226,6 @@ You can also use one of the following resources to help you discover and contrib
 * [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 * [GitLab Explore](https://gitlab.com/explore/projects/trending)
 
-
 ### A checklist before you contribute
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
