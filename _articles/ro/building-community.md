@@ -139,7 +139,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

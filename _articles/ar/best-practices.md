@@ -108,7 +108,7 @@ related:
 
 لا تترك مساهمة لا ترغب بها مفتوحة فقط لأنك تشعر بالذنب أو بدافع اللطف. مع مرور الوقت، تراكم issues و PRs غير المردود عليها سيجعل العمل على مشروعك أكثر توترًا ويخلق شعورًا بالرهبة.
 
-من الأفضل أن تقوم بإغلاق المساهمات التي تعلم مسبقًا أنك لن تقبلها، وبشكل فوري. وإذا كان مشروعك يعاني بالفعل من backlog كبير، فإن @steveklabnik يقدّم نصائح ممتازة حول [كيفية إجراء triage للـ issues بطريقة فعّالة](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+من الأفضل أن تقوم بإغلاق المساهمات التي تعلم مسبقًا أنك لن تقبلها، وبشكل فوري. وإذا كان مشروعك يعاني بالفعل من backlog كبير، فإن @steveklabnik يقدّم نصائح ممتازة حول [كيفية إجراء triage للـ issues بطريقة فعّالة](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 أيضًا، تجاهل المساهمات يرسل إشارة سلبية إلى الـ community. المشاركة في مشروع مفتوح المصدر قد تكون خطوة مخيفة، خصوصًا إذا كانت هذه أول تجربة للشخص. حتى إن لم تقبل المساهمة، فمن المهم الاعتراف بجهد صاحبها وشكره على اهتمامه، فمجرد مشاركته هو بمثابة مجاملة كبيرة للمشروع!
 
@@ -227,7 +227,7 @@ related:
   أنا أؤمن بأن tests ضرورية لكل code يعمل عليه الناس. فلو كان code صحيحًا وكاملًا تمامًا، لما احتاج إلى أي تعديل – نحن نكتب code فقط عندما يكون هناك خلل، سواء كان سببًا في It crashes أو لغياب ميزة معينة .
   وبغض النظر عن التغييرات، تظل tests أساسية لاكتشاف أي regressions قد تدخلها عن طريق الخطأ
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

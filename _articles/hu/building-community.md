@@ -117,7 +117,7 @@ Tegyél meg mindent, hogy zéró toleranciát tanúsíts az ilyen típusú ember
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne tűrd meg a seggfejeket.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Hogyan működik a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Hogyan működik a FOSS Project"
   </p>
 </aside>
 

@@ -113,7 +113,7 @@ Do your best make you get zero-tolerance policy for these kind people. If you no
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Di true be say gettin' support from community na di koko. I for neva fit do dis work witout di help from my colleagues, friendly pipo wey dey internet, an' di people wey dey chatty for IRC channels. No settle for less. No settle for assholes.
    <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

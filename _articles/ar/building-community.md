@@ -119,7 +119,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   الحقيقة هي أن وجود مجتمع داعم أمر أساسي. لم أكن لأتمكن من القيام بهذا العمل بدون مساعدة زملائي، الغرباء الودودين على الإنترنت، وقنوات IRC الممتعة للتحدث. (...) لا تقبل بأقل من ذلك. ولا تقبل بالأشخاص السلبيين (assholes).
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["كيفية إدارة مشروع FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "كيفية إدارة مشروع FOSS"
   </p>
 </aside>
 
