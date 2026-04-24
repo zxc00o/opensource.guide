@@ -114,7 +114,7 @@ Dê o melhor de si para adotar uma política de tolerância zero contra esse tip
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   A verdade é que ter uma comunidade solidária é uma característica chave. Eu nunca poderia ter feito este trabalho sem a ajuda dos meus colegas, estranhos amigáveis da internet, e canais IRC tagarelas. (...) Não se contente com menos. Não se contente com idiotas.
   <p markdown="1" class="pquote-credit">
-  — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+  — @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 

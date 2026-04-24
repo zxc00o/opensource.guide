@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Истината е, че наличието на подкрепяща общност е от ключово значение. Никога не бих могъл да свърша тази работа без помощта на моите колеги, дружелюбни непознати в интернет и разговорливи IRC канали. (...) Не се задоволявайте с по-малко. Не се задоволявайте с глупаци.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Как да управлявате проект FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Как да управлявате проект FOSS"
   </p>
 </aside>
 
