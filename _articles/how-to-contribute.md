@@ -224,7 +224,8 @@ You can also use one of the following resources to help you discover and contrib
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 * [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
-* [GitLab Explore](https://gitlab.com/explore/projects/starred)
+* [GitLab Explore](https://gitlab.com/explore/projects/trending)
+
 
 ### A checklist before you contribute
 
