@@ -164,7 +164,7 @@ redirect_from: /zh-tw/building-community/
 
 * **在專案中添加一個貢獻者列表或者作者列表** 記錄每一個參與貢獻的人。
 
-* 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。[Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是兩個非常好的範例。
+* 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。[Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的[Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html)就是兩個非常好的範例。
 
 * **給每個貢獻者提交的權限。**@發現這樣會使大家[越來越樂意發表他們的補丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處理的專案。
 
@@ -178,7 +178,7 @@ redirect_from: /zh-tw/building-community/
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["打造溫暖的社群"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
