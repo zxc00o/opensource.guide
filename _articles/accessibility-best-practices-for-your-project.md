@@ -34,7 +34,7 @@ Decisions made without the people affected by them tend to miss the mark. Buildi
 
 ## Start with an accessibility statement
 
-Before diving into code, take a moment to document your project's accessibility commitment. An accessibility statement signals to users and contributors that accessibility is a priority, not an afterthought.
+Before diving into code, take a moment to document your project's accessibility commitment. An accessibility statement signals to users and contributors that accessibility is a priority, not an afterthought. For guidance, refer to the [W3C's Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/).
 
 ### A clear statement sets expectations and makes it easy for users to report issues.
 
