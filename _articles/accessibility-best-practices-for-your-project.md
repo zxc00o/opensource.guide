@@ -5,10 +5,10 @@ title: Accessibility Best Practices for Your Project
 description: Practical, actionable steps to make your open source project usable by everyone, especially people with disabilities.
 class: accessibility-best-practices
 order: -1
-image: /assets/images/cards/accessibility-best-practices.png
+image: /assets/images/cards/default.png
 ---
 
-Accessibility (often shortened to *a11y*) means people can use your project regardless of disability, assistive technology, environment, or device. It includes - but isn’t limited to - support for screen readers, keyboard-only navigation, captions/transcripts, color contrast, and clear content structure.
+Accessibility (often shortened to *a11y*) means people can use your project regardless of disability, assistive technology, environment, or device. It includes - but isn’t limited to - support for screen readers, keyboard-only navigation, captions/transcripts, sufficient color contrast, and clear content structure.
 
 ## Partner with people with disabilities
 
@@ -29,6 +29,7 @@ Here are a few ways to center lived experience:
 - **It’s part of quality.** Accessible products tend to be more usable for everyone.
 - **It reduces support load.** Clearer UI and docs mean fewer confused users.
 - **It expands your contributor base.** Assistive tech users can more fully participate.
+- **It drives innovation.** Designing for diverse needs often leads to features that benefit everyone (like captions, voice control, and dark mode all began as accessibility solutions).
 - **It’s often required.** Many orgs (and some governments) require accessibility for procurement and compliance.
 - **Our future is uncertain.** Nobody today can be confident about the abilities we will have tomorrow.
 
@@ -37,27 +38,28 @@ Here are a few ways to center lived experience:
 
 Before diving into code, take a moment to document your project's accessibility commitment. An accessibility statement signals to users and contributors that accessibility is a priority, not an afterthought. For guidance, refer to the [W3C's Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/).
 
-### A clear statement sets expectations and makes it easy for users to report issues.
+Add a clear statement that sets expectations and makes it easy for users to report issues. You can either add an accessibility section directly in your README, or create a dedicated **ACCESSIBILITY.md** file and link to it from your README for visibility.
 
-Add a short accessibility statement to your project. You can either add an accessibility section directly in your README, or create a dedicated ACCESSIBILITY.md file and link to it from your README for visibility.
+### Goals
+- State measurable goals (like [WCAG AA](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) where feasible).
+- Primary priorities, and how you meet them (keyboard and screen reader support, captions and transcripts, etc.).
+- Any known limitations, and alterative workarounds (if present).
 
-#### **Goals**
-- State measurable goals (like WCAG AA where feasible), primary priorities (keyboard, screen reader, captions), and any known limitations.
+### Contributor requirements
+Establish clear guardrails so contributors know what's expected:
+- **Testing:** All UI changes must be tested with an accessibility testing tool (like [Axe DevTools](https://www.deque.com/axe/devtools/extension/#:~:text=Try%20Axe%20DevTools%20Extension%20in%20your%20browser%20of%20choice)).
+- **Documentation:** Follow your project's accessibility guidelines for components like SVGs, images, and interactive elements.
+- **CI/CD:** PRs will fail if they introduce violations detected by the accessibility linting workflow.
 
-#### **Contributor requirements**
-- Establish clear guardrails so contributors know what's expected:
-    - **Testing:** All UI changes must be tested with an accessibility testing tool (like Axe DevTools).
-    - **Documentation:** Follow your project's accessibility guidelines for components like SVGs, images, and interactive elements.
-    - **CI/CD:** PRs will fail if they introduce violations detected by the accessibility linting workflow.
+### Supported environments
+- List platforms you support (web, mobile web, iOS, Android, terminal/CLI, desktop apps).
+- List any partial-support notes.
 
-#### **Supported environments**
-- List platforms you support (web, mobile web, iOS, Android, terminal/CLI, desktop apps) and any partial-support notes.
-
-#### **Reporting accessibility bugs**
+### Reporting accessibility bugs
 - Ask reporters to open issues using the accessibility issue template.
 - **Tip:** Set expectations honestly (like “We’re working on this — tracking in ISSUE-123”); acknowledge reports and provide follow-up or workaround when possible.
 
-##### Why separate accessibility from your general issue process?
+#### Why separate accessibility from your general issue process?
 
 Users have come to expect a dedicated accessibility statement and reporting path - it's a well-established convention in the private sector and across government sites, and many users look for it first when they hit a barrier. Keeping accessibility distinct from your general issue flow matters because:
 
@@ -69,23 +71,24 @@ Users have come to expect a dedicated accessibility statement and reporting path
 
 ## Make docs accessible by default
 
-Documentation is often the first "UI" users touch, make sure everyone can read it.
+Documentation is often the first "UI" users touch. Make sure everyone can read it.
 
 ### Structure and semantics
-- Use a **logical heading hierarchy** and don't skip levels (`#` , `##`, `###`, `####`, `#####`, and `######`).
+- Use a **logical heading hierarchy** and don't skip levels (`#`, `##`, `###`, `####`, `#####`, and `######`).
 - Use **unique, descriptive link text** (“Read the contributing guide” instead of “click here”).
 - Use plain language, avoiding jargon and expanding any abbreviation the first time it is used.
-- Use **real lists** over manually typed numbering.
+- [Use **real lists**](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) over manually typed numbering.
 - Keep **help and navigation in consistent locations** across pages so users can find them predictably.
 - Avoid conveying meaning only through position or styling (“see the red text on the right”).
 
 ### Images, diagrams and videos
-- Provide meaningful **alt text** for images (refer to the [W3C’s alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)).
+- Provide meaningful **alternative text** (often shortened to "alt text") for images (refer to the [W3C’s alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)).
 - Instead of using images of text, use real text whenever possible.
 - For complex images (like architecture diagrams), include an additional **text alternative** nearby (bullets or a short explanation).
 - If you publish demos, tutorials, talks, or release videos:
     - Provide **captions** (prefer human-edited when possible).
     - Provide a **transcript**.
+    - Avoid auto-playing audio and video.
     - Describe important on-screen actions verbally.
 
 ### Tables
@@ -98,7 +101,7 @@ Documentation is often the first "UI" users touch, make sure everyone can read i
 - Don’t rely on color highlighting alone to indicate meaning.
 - Explain inline what the code does and what success looks like.
 
-## Design accessible UIs
+## Design accessible Interfaces
 
 If your project has a web UI, these high-impact defaults will help all users.
 
@@ -109,8 +112,8 @@ If your project has a web UI, these high-impact defaults will help all users.
 - Don’t trap focus inside components unless you intentionally manage focus (like modal dialogs) and provide a way out.
 
 ### Semantics first
-- Use native HTML elements (`<button>`, `<a>`, `<input>`, `<label>`) when possible.
-- Use ARIA only when native HTML isn't sufficient. No ARIA is better than bad ARIA. When you do use it, follow the [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/) and ensure all interactive ARIA controls are keyboard accessible.
+- Use native HTML elements (`<h1>`, `<button>`, `<a>`, `<input>`, `<label>`) when possible.
+- Use ARIA only when native HTML isn't sufficient. No ARIA is better than bad ARIA. When you do use it, follow the [Accessible Rich Internet Applications (ARIA) documentation](https://www.w3.org/TR/wai-aria/) and ensure all interactive ARIA controls are keyboard accessible.
 - Declare the **language** of your document (like `lang="en"` in HTML) and mark up any sections in a different language.
 
 ### Names, labels, instructions
@@ -119,7 +122,7 @@ If your project has a web UI, these high-impact defaults will help all users.
 - For required fields, explain requirements in text (not only an asterisk).
 
 ### Color and contrast
-- Don’t use color as the only signal (“errors are red”).
+- Don’t use color as the only method to convey meaning (“errors are red”).
 - Ensure adequate contrast for text and UI controls (refer to [WebAIM’s Contrast Checker](https://webaim.org/resources/contrastchecker/)).
 
 ### Motion and animation
@@ -127,20 +130,20 @@ If your project has a web UI, these high-impact defaults will help all users.
 - Avoid parallax effects and auto-advancing carousels, or make them optional and controllable.
 
 ### Dynamic content
-- When content updates without a page load, ensure assistive tech users are informed:
-  - Use appropriate **ARIA live regions** sparingly for announcements.
-  - Manage focus when opening/closing dialogs, menus, and drawers.
+When content updates without a page load, ensure assistive tech users are informed:
+- Use appropriate **ARIA live regions** sparingly for announcements.
+- Manage focus when opening/closing dialogs, menus, and drawers.
 
 ### Dependencies and patterns
 - Use component libraries with documented accessibility support.
 - Track accessibility bugs upstream and link to them in your issues.
-- Be cautious with custom UI controls; native controls are usually more accessible and easier to maintain.
+- Be cautious with custom UI controls. Native controls (like `<button>`, `<select>`, `<input type="checkbox">`, `<details>`) come with built-in keyboard support, focus management, screen reader semantics, and form integration that browsers and assistive technologies already understand. Recreating that behavior in custom components is time-consuming, easy to get wrong, and adds long-term maintenance cost as platforms and assistive tech evolve. Reach for custom controls only when a native element genuinely can't meet the need.
 
 ### Mobile considerations
-- Ensure touch targets are at least **24×24 CSS pixels** with adequate spacing.
+- Make touch targets at least **24×24 CSS pixels**.
 - Provide single-pointer alternatives for multipoint or path-based gestures (pinch, swipe).
 - Offer alternatives for drag-and-drop operations (buttons, menus).
-- Don't restrict content to a single display orientation unless essential.
+- Don't restrict content to a single display orientation, unless the content being displayed needs to use a specific orientation.
 - Provide alternatives for features triggered by device motion (like shake to undo).
 
 ## Make tools accessible
@@ -155,9 +158,9 @@ Command line apps can be highly accessible when they’re predictable and script
 - Provide **machine-readable output** options (like `--json`) for users who can’t easily parse tables.
 - Avoid relying solely on ANSI color to convey success/failure; include text labels and exit codes.
 - Write error messages that:
-  - explain what happened,
-  - show how to fix it,
-  - and link to docs if needed.
+  - Explain what happened,
+  - Show how to fix it, and
+  - Link to docs if needed.
 - Use standard exit codes and ensure non-zero on failure.
 
 ### Terminals, logs, and dashboards
@@ -198,7 +201,7 @@ For projects with UI changes, include questions such as:
 Add accessibility acceptance criteria for features and bug fixes, so it’s not optional or last-minute.
 
 ### Leverage GitHub Copilot
-- Create specialized Copilot agents that automate accessibility tasks in your development workflow, from auditing pages with axe-core to tracking accessibility improvements across releases. Refer to the [Getting Started with GitHub Copilot Custom Agents for Accessibility Guide](https://accessibility.github.com/documentation/guide/getting-started-with-agents/)
+- Create specialized Copilot agents that automate accessibility tasks in your development workflow, from auditing pages with [axe-core](https://github.com/dequelabs/axe-core) to tracking accessibility improvements across releases. Refer to the [Getting Started with GitHub Copilot Custom Agents for Accessibility Guide](https://accessibility.github.com/documentation/guide/getting-started-with-agents/)
 - Tailor Copilot's suggestions to your coding style, accessibility practices, and project context to ensure they align with your accessibility requirements. Refer to the [Optimizing GitHub Copilot for Accessibility with Custom Instructions Guide](https://accessibility.github.com/documentation/guide/copilot-instructions/).
 
 ### Handle accessibility reported issues respectfully and effectively
@@ -215,10 +218,10 @@ Automated tools catch regressions, but manual testing builds real confidence.
 ### Automated checks (good at catching regressions)
 - Linting for accessibility in UI code.
 - Automated scanning in CI for common WCAG failures (like the [GitHub Accessibility Scanner](https://github.com/github/accessibility-scanner)).
-- Unit/integration tests that assert roles/names for key components.
+- Unit/integration tests that assert [roles/names](https://www.w3.org/TR/accname-1.2/) for key components.
 
 ### Manual testing (required for real confidence)
-- **Keyboard-only** pass: can you do the main flows without a mouse?
+- **Keyboard-only** pass: can you successfully operate the main flows of your experience without a mouse?
 - **Screen reader** spot check:
   - macOS: [VoiceOver](https://support.apple.com/guide/voiceover/welcome/mac)
   - Windows: [NVDA](https://www.nvaccess.org/about-nvda/) (common in open source), [JAWS](https://vispero.com/jaws-screen-reader-software/) (enterprise)
@@ -235,6 +238,7 @@ Pick a few:
 - Add `ACCESSIBILITY.md` and an accessibility label (like *"accessibility"* or *"a11y"*)
 - Ensure every interactive element is keyboard reachable
 - Fix missing form labels
+- Declare the **language** of your document (like `lang="en"` in HTML) and mark up any sections in a different language
 - Add alt text and heading structure to the README and docs
 - Add a PR checklist item for keyboard/focus
 - Add captions/transcript to your most popular video
