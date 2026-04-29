@@ -247,12 +247,11 @@ Pick a few:
 ### Suggested file additions to help formalize your accessibility commitment.
 
 Consider adding these to your repo:
-- `ACCESSIBILITY.md`: your accessibility statement and how to report issues
+- `ACCESSIBILITY.md`: your accessibility statement, how to report issues, and any project-specific guidance (component rules, patterns, known issues)
 - `.github/ISSUE_TEMPLATE/accessibility.yml`: accessibility bug reports
 - `.github/pull_request_template.md`: include an a11y checklist
-- `docs/accessibility/`: any project-specific guidance (component rules, patterns, known issues)
 
-Refer to this [ACCESSIBILITY.md example](https://github.com/mgifford/ACCESSIBILITY.md/tree/main).
+Refer to this [project for additional examples](https://github.com/mgifford/ACCESSIBILITY.md/tree/main).
 
 ## Conclusion: A few steps for you, a huge improvement for your users
 
