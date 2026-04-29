@@ -5,7 +5,7 @@ title: Accessibility Best Practices for Your Project
 description: Practical, actionable steps to make your open source project usable by everyone, especially people with disabilities.
 class: accessibility-best-practices
 order: -1
-image: /assets/images/cards/default.png
+image: /assets/images/cards/accessibility-best-practices.png
 ---
 
 Accessibility (often shortened to _a11y_) means people can use your project regardless of disability, assistive technology, environment, or device. It includes - but isn't limited to - support for screen readers, keyboard-only navigation, captions/transcripts, sufficient color contrast, and clear content structure.
