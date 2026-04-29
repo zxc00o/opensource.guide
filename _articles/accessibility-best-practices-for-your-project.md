@@ -266,4 +266,4 @@ The work you put in today means more people can learn from, contribute to, and r
 
 ### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
 
-This guide was written by [@mlama007](https://github.com/mlama007) with contributions from: [@ericwbailey](https://github.com/ericwbailey), [@andyfeller](https://github.com/andyfeller), [@mgifford](https://github.com/mgifford), TBD
+This guide was written by [@mlama007](https://github.com/mlama007) with contributions from: [@ericwbailey](https://github.com/ericwbailey), [@andyfeller](https://github.com/andyfeller), [@mgifford](https://github.com/mgifford), [smockle](https://github.com/smockle), and [weboverhauls](https://github.com/weboverhauls)
