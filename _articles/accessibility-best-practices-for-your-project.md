@@ -38,7 +38,7 @@ Here are a few ways to center lived experience:
 
 Before diving into code, take a moment to document your project's accessibility commitment. An accessibility statement signals to users and contributors that accessibility is a priority, not an afterthought. For guidance, refer to the [W3C's Developing an Accessibility Statement](https://www.w3.org/WAI/planning/statements/).
 
-Add a clear statement that sets expectations and makes it easy for users to report issues. You can either add an accessibility section directly in your README, or create a dedicated **ACCESSIBILITY.md** file and link to it from your README for visibility.
+Add a clear statement that sets expectations and makes it easy for users to report issues. You can either add an accessibility section directly in your README, or create a dedicated **ACCESSIBILITY.md** file and link to it from your README for visibility. Refer to this [ACCESSIBILITY.md example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/ACCESSIBILITY.md).
 
 ### Goals
 - State measurable goals (like [WCAG AA](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) where feasible).
@@ -67,7 +67,6 @@ Users have come to expect a dedicated accessibility statement and reporting path
 - **Context is different.** Accessibility reported issues need specific information (assistive tech, OS, browser, severity) that a generic bug template doesn't prompt for.
 - **It signals commitment.** A visible, separate statement tells users and contributors that accessibility is a first-class concern, not something folded into "other bugs."
 - **Reporters may use assistive technology to file the report itself.** A clear, predictable process (a known file, a known label, a known template) reduces friction for the people most affected.
-
 
 ## Make docs accessible by default
 
@@ -188,7 +187,9 @@ Accessibility is easier to maintain when it's part of your regular process.
         - **Low:** Minor issue with minimal impact on usability.
     - Contact or escalation instructions if appropriate.
 
-### Add an accessibility checklist to PRs
+Refer to this [accessibility issue template example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/.github/ISSUE_TEMPLATE/accessibility.yml).
+
+### Add an accessibility checklist to pull requests (PRs) 
 For projects with UI changes, include questions such as:
 - Keyboard navigation works end-to-end
 - Focus states are visible and logical
@@ -196,6 +197,8 @@ For projects with UI changes, include questions such as:
 - Color isn’t the only indicator
 - Reduced motion is respected (if animations were added)
 - Screen reader behavior was checked (at least once)
+
+Refer to this [PR template example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 ### Define “done”
 Add accessibility acceptance criteria for features and bug fixes, so it’s not optional or last-minute.
@@ -247,9 +250,9 @@ Pick a few:
 ### Suggested file additions to help formalize your accessibility commitment.
 
 Consider adding these to your repo:
-- `ACCESSIBILITY.md`: your accessibility statement, how to report issues, and any project-specific guidance (component rules, patterns, known issues)
-- `.github/ISSUE_TEMPLATE/accessibility.yml`: accessibility bug reports
-- `.github/pull_request_template.md`: include an a11y checklist
+- `ACCESSIBILITY.md`: your accessibility statement, how to report issues, and any project-specific guidance (component rules, patterns, known issues) - [ACCESSIBILITY.md example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/ACCESSIBILITY.md)
+- `.github/ISSUE_TEMPLATE/accessibility.yml`: accessibility bug reports - [accessibility issue template example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/.github/ISSUE_TEMPLATE/accessibility.yml)
+- `.github/pull_request_template.md`: include an a11y checklist - [PR template example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 Refer to this [project for additional examples](https://github.com/mgifford/ACCESSIBILITY.md/tree/main).
 
